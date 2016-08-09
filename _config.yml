@@ -72,5 +72,4 @@ defaults:
       layout: "plain"
 
 assets:
-  sources:
-  - _assets/img
+  baseurl: https://tyrcho.github.io/jekyll-test/img
